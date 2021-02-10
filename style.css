@@ -1,0 +1,3 @@
+*{transition: .7s;position: relative;background-color: rgb(255, 217, 0);margin-right: 17px;}
+h1{text-align:center;background-color: rgb(146, 255, 118);width: 100%;height: 100%;font-size: 100px;display: inline;position: center;}
+#BMI{text-align:center;color: rgb(255, 9, 193);position: inline;display: block;margin-top: 15%;font-size: 100px;width: 100% auto;height: 100% auto;border: 12px double rgb(20, 235, 250);border-radius: 55px;background-color: aliceblue;display: inline-block;}
